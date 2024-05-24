@@ -1,0 +1,11 @@
+.book-detail {
+  .img-container {
+    margin: 0 auto;
+  }
+}
+
+@media (min-width: 768px) {
+  .img-container {
+    width: 400px;
+  }
+}
